@@ -24,27 +24,6 @@ El programa despliega de forma automática la lista de productos disponibles en 
 3. Ejecuta:
    python menu_restaurante.py
 
-## Ejemplo de salida
-
-==================================================
-Bienvenidos a cookie Love.
-==================================================
-Menú:
-1 🍔 Cheeseburger
-2 🍟 Fries
-3 🥤 Soda
-4 🍦 Ice Cream
-5 🍪 Cookie
-6 🍕 Pizza
-
-¿Que vas a ordenar? 8
-Error: Valor no valido escoja un número del 1 al 6
-
-¿Que vas a ordenar? 5
-Ordenaste 🍪 Cookie
-
-...
-
 ## Lo que practiqué
 
 En este proyecto utilicé:
